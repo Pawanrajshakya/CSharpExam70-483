@@ -1,0 +1,10 @@
+/Users/pawanrajshakya/Documents/My Projects/CSharpExam70-483/Ch1_Ex1_Thread/bin/Debug/netcoreapp2.0/Ch1_Ex1_Thread.deps.json
+/Users/pawanrajshakya/Documents/My Projects/CSharpExam70-483/Ch1_Ex1_Thread/bin/Debug/netcoreapp2.0/Ch1_Ex1_Thread.runtimeconfig.json
+/Users/pawanrajshakya/Documents/My Projects/CSharpExam70-483/Ch1_Ex1_Thread/bin/Debug/netcoreapp2.0/Ch1_Ex1_Thread.runtimeconfig.dev.json
+/Users/pawanrajshakya/Documents/My Projects/CSharpExam70-483/Ch1_Ex1_Thread/bin/Debug/netcoreapp2.0/Ch1_Ex1_Thread.dll
+/Users/pawanrajshakya/Documents/My Projects/CSharpExam70-483/Ch1_Ex1_Thread/bin/Debug/netcoreapp2.0/Ch1_Ex1_Thread.pdb
+/Users/pawanrajshakya/Documents/My Projects/CSharpExam70-483/Ch1_Ex1_Thread/obj/Debug/netcoreapp2.0/Ch1_Ex1_Thread.csproj.CoreCompileInputs.cache
+/Users/pawanrajshakya/Documents/My Projects/CSharpExam70-483/Ch1_Ex1_Thread/obj/Debug/netcoreapp2.0/Ch1_Ex1_Thread.AssemblyInfoInputs.cache
+/Users/pawanrajshakya/Documents/My Projects/CSharpExam70-483/Ch1_Ex1_Thread/obj/Debug/netcoreapp2.0/Ch1_Ex1_Thread.AssemblyInfo.cs
+/Users/pawanrajshakya/Documents/My Projects/CSharpExam70-483/Ch1_Ex1_Thread/obj/Debug/netcoreapp2.0/Ch1_Ex1_Thread.dll
+/Users/pawanrajshakya/Documents/My Projects/CSharpExam70-483/Ch1_Ex1_Thread/obj/Debug/netcoreapp2.0/Ch1_Ex1_Thread.pdb
